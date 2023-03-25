@@ -1,0 +1,2 @@
+# mimozemsky-zivot
+Exercise: dayjs
